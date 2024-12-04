@@ -32,6 +32,8 @@ This project analyzes server log files to extract insights, detect suspicious ac
   - Bar chart of suspicious IPs (if detected).  
   - Pie chart of the request distribution for the top 5 IPs.
 
+
+
 ## Installation
 
 ### 🔧 Prerequisites
@@ -93,6 +95,8 @@ The dashboard includes:
 2. 📊 **Bar Chart**: Top accessed endpoints.
 3. 🔴 **Bar Chart**: Suspicious IPs with failed login attempts (if any).
 4. 📊 **Pie Chart**: Request distribution among the top 5 IPs.
+
+![Dashboard Visualization](dashboard_visualization.png)
 
 ## Example Log Format
 
